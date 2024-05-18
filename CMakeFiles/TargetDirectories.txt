@@ -1,0 +1,3 @@
+/home/kenzo/repos/Student/os-2/CMakeFiles/your_executable_name.dir
+/home/kenzo/repos/Student/os-2/CMakeFiles/edit_cache.dir
+/home/kenzo/repos/Student/os-2/CMakeFiles/rebuild_cache.dir

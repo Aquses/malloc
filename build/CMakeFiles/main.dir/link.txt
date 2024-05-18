@@ -1,0 +1,1 @@
+/usr/bin/gcc-12 -g -rdynamic CMakeFiles/main.dir/deque.c.o CMakeFiles/main.dir/list.c.o CMakeFiles/main.dir/list_iterator.c.o CMakeFiles/main.dir/list_node.c.o CMakeFiles/main.dir/set.c.o CMakeFiles/main.dir/main.c.o -o main 

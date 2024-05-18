@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/eldr/Desktop/os2/build",
+  "command": "/usr/bin/gcc-12   -g -o CMakeFiles/main.dir/deque.c.o -c /home/eldr/Desktop/os2/deque.c",
+  "file": "/home/eldr/Desktop/os2/deque.c"
+},
+{
+  "directory": "/home/eldr/Desktop/os2/build",
+  "command": "/usr/bin/gcc-12   -g -o CMakeFiles/main.dir/list.c.o -c /home/eldr/Desktop/os2/list.c",
+  "file": "/home/eldr/Desktop/os2/list.c"
+},
+{
+  "directory": "/home/eldr/Desktop/os2/build",
+  "command": "/usr/bin/gcc-12   -g -o CMakeFiles/main.dir/list_iterator.c.o -c /home/eldr/Desktop/os2/list_iterator.c",
+  "file": "/home/eldr/Desktop/os2/list_iterator.c"
+},
+{
+  "directory": "/home/eldr/Desktop/os2/build",
+  "command": "/usr/bin/gcc-12   -g -o CMakeFiles/main.dir/list_node.c.o -c /home/eldr/Desktop/os2/list_node.c",
+  "file": "/home/eldr/Desktop/os2/list_node.c"
+},
+{
+  "directory": "/home/eldr/Desktop/os2/build",
+  "command": "/usr/bin/gcc-12   -g -o CMakeFiles/main.dir/set.c.o -c /home/eldr/Desktop/os2/set.c",
+  "file": "/home/eldr/Desktop/os2/set.c"
+},
+{
+  "directory": "/home/eldr/Desktop/os2/build",
+  "command": "/usr/bin/gcc-12   -g -o CMakeFiles/main.dir/main.c.o -c /home/eldr/Desktop/os2/main.c",
+  "file": "/home/eldr/Desktop/os2/main.c"
+}
+]
